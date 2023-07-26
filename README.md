@@ -39,8 +39,6 @@
 
   <!--   GitHub stats graph --> 
   <h2 align="left"> S T A T S </h2>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DashingAdi&theme=react&background=0D1117&card_width=1000)](https://git.io/streak-stats)
 
   <div align="center">
    <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"/>
