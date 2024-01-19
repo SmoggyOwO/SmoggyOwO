@@ -51,9 +51,8 @@
   <h2 align="left"> S T A T S </h2>
 
   <div align="center">
-       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DashingAdi&theme=react&hide_border=false&bg_color=0D1117">
-       <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DashingAdi&show_icons=true&theme=react&bg_color=0D1117"/>
-       <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=false&bg_color=0D1117"/>
+       <img width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=DashingAdi&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3" />
+       <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3"/>
   </div>
   
   <br/>
