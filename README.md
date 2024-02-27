@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a 2nd year BTech Computer Science student at Lovely Professional University.
 - 🌱 I’m currently learning <b> Devops </b> and <b> Backend Development. </b>
-- 🥅 <b> 2023 Goals </b>: Contribute more to Open Source projects.
+- 🥅 <b> 2024 Goals </b>: Contribute more to Open Source projects.
 - 📬 How to reach me: dashing4149@gmail.com
 - ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
 
