@@ -10,7 +10,7 @@
   <!-- Daily Dev Card -->
   <!-- <img align="left" height="250px" alt="Aditya Kumar Singh's Dev Card" src="https://github.com/DashingAdi/DashingAdi/blob/main/devcard.svg?r=kdk" padding="5px" /> -->
 
-- 🔭 I’m currently a 2nd year BTech Computer Science student at Lovely Professional University.
+- 🔭 I’m currently a 3rd year BTech Computer Science student at Lovely Professional University.
 - 🌱 I’m currently learning <b> Devops </b> and <b> Backend Development. </b>
 - 🥅 <b> 2024 Goals </b>: Contribute more to Open Source projects.
 - 📬 How to reach me: dashing4149@gmail.com
