@@ -47,7 +47,7 @@
   <img src="https://github.com/DashingAdi/DashingAdi/blob/main/github-metrics.svg" alt="DashingAdi">
 </p> -->
 
-![Metrics](https://metrics.lecoq.io/DashingAdi?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata&config.display=large)
+![Metrics](/github-metrics.svg)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DashingAdi?theme=dark&font=Roboto&ext=contest&border=0&radius=20&animations=true)
 
