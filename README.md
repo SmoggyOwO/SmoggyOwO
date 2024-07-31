@@ -90,8 +90,8 @@ aditya@github:~$ ./welcome.sh
 <!-- Github Stat -->
 
 <div style="display: flex" />
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-  <img width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
+  <img width="45%" src="./github-metrics.svg" alt="GitHub Metrics" />
+  <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
 </div>
 
 <br/>
