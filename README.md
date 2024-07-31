@@ -123,11 +123,11 @@ P.S: Top languages is only a metric of the languages my public code consists of 
 <div style="display: flex;">
     <img align="left" src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" width="60" style>
     <div style="display: flex; align-items: center;">
-        <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+        <a href="https://www.linkedin.com/in/adityasingh4149/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
         &#8287;&#8287;&#8287;
-        <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+        <a href="https://x.com/_DashingAdi_"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
         &#8287;&#8287;&#8287;
-        <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+        <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
         <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1">
         <br/>
         <a href="https://visitcount.itsvg.in">
