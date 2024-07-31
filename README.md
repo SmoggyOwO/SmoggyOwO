@@ -54,7 +54,6 @@ aditya@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Go" height="25" />
     </p>
-    <br/>
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" height="25" />
@@ -63,12 +62,10 @@ aditya@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg" alt="Prisma" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
     </p>
-    <br/>
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
     </p>
-    <br/>
     <p align="center" style="display: flex; gap: 9px">
       <!-- Version Control -->
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
@@ -89,7 +86,7 @@ aditya@github:~$ ./welcome.sh
 
 <!-- Github Stat -->
 
-<div style="display: flex" />
+<div style="display: flex; align-items="center"/>
   <img width="45%" src="./github-metrics.svg" alt="GitHub Metrics" />
   <img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
 </div>
