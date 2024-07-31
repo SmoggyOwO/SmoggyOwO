@@ -88,7 +88,7 @@ aditya@github:~$ ./welcome.sh
 
 <div style="display: flex; align-items="center"/>
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
-  <img height="290" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
+  <img height="250" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DashingAdi&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
 </div>
 
 <br/>
