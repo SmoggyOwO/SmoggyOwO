@@ -131,7 +131,7 @@ P.S: Top languages is only a metric of the languages my public code consists of 
         <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1">
         <br/>
         <a href="https://visitcount.itsvg.in">
-          <img src="https://visitcount.itsvg.in/api?id=DashingAdi&label=Profile%20Views&color=10&icon=3&pretty=true" />
+           <img src="https://visitcount.itsvg.in/api?id=SmoggyOwO&label=Profile%20Views&color=10&icon=3&pretty=true" />
         </a>
     </div>
 </div>
