@@ -3,7 +3,7 @@
 <!-- Main Top PC GIF -->
 
 <div style="display: flex; justify-content: center;">
-    <img src="https://github.com/DashingAdi/DashingAdi/blob/main/assets/header.gif" height="auto" width="100%" />
+    <img src="https://github.com/SmoggyOwO/SmoggyOwO/blob/main/assets/painting.gif" height="auto" width="100%" />
 </div>
 
 <div align="center">
