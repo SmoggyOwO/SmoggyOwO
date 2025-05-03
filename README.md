@@ -18,11 +18,15 @@
 
 <!-- About ME -->
 
-<div class="about-main" style="display: flex;">
-    <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://github.com/SmoggyOwO/SmoggyOwO/blob/main/assets/camp.gif" height="287" width="240">
-    </div>
-  
+<!-- About ME -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="30%">
+        <img src="https://github.com/SmoggyOwO/SmoggyOwO/blob/main/assets/camp.gif" height="311" width="250">
+      </td>
+      <td width="70%" >
+
 ```markdown
 aditya@github:~$ ./welcome.sh
 
@@ -38,9 +42,12 @@ aditya@github:~$ ./welcome.sh
 🎯 Preping for GSOC 2025
 📬 How to reach me: dashing4149@gmail.com
 ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
-
 ```
 
+
+</td>
+    </tr>
+  </table>
 </div>
 
 <!-- Technologies -->
